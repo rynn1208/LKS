@@ -1,0 +1,6 @@
+.sidebar{
+    min-height: 100vh;
+}
+.border{
+    border-right: 1px solid black;
+}
