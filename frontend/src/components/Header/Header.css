@@ -1,0 +1,30 @@
+.header{
+    height: 34vw;
+    margin: 30px auto;
+    background-image: url('/header_img.jpeg');
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+}
+.header-contents{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items: start;
+    bottom: 10%;
+    left: 6vw;
+    gap: 1.5vw;
+    width: 50%;
+    animation: fadeIn 3s;
+}
+.header-contents h2{
+    font-weight: 500;
+    color: #161515;
+    font-size: max(4vw, 22px );
+}
+.header-contents p{
+    color: #161515;
+}
+.header-contents button:hover{
+    background-color: #E78B48;
+}

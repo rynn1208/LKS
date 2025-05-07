@@ -1,13 +1,13 @@
 import React from 'react'
+import './Header.css'
 
 const Header = () => {
   return (
-    <div className='header'>
+    <div className='header shadow' >
         <div className="header-contents">
-            <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, accusantium?
-            </h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, quidem voluptate? Recusandae, repellat tempore, corrupti quibusdam praesentium voluptatum aspernatur ad unde molestiae illo deserunt velit.</p>
-            <button>Sign Up</button>
+            <h2>Order your Favourite food here.</h2>
+            <p>Choose from a diverse menu featuring a delectable array of dishes. Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time. </p>
+            <button class="btn btn-light rounded-pill px-3" type="button">View Menu</button>
         </div>
     </div>
   )

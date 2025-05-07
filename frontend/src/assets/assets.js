@@ -1,10 +1,8 @@
 import basket_icon from "./basket_icon.png";
 import logo from "./logo.png";
-import header_img from "./header_img.png";
+import header_img from "./header_img.jpeg";
 import search_icon from "./search_icon.png";
 import rynncorp from "./ryanncorp.png";
-import header_2 from "./header_2.jpg"
-import head_ryn from "./head_ryn.jpg";
 import list_ryn from './list_ryn.png';
 import bag_ryn from './bag_ryn.png';
 import menu_1 from "./menu_1.png";
@@ -86,8 +84,6 @@ export const assets = {
   bag_icon,
   parcel_icon,
   rynncorp,
-  head_ryn,
-  header_2,
   list_ryn,
   bag_ryn,
 };

@@ -10,3 +10,7 @@
     left: 23px;
     border-radius: 5px;
 }
+.text-end button{
+    background-color: #E78B48;
+    border: 1px solid #E78B48;
+}
