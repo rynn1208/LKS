@@ -1,0 +1,32 @@
+- NPM INSTALl (...)
+============ (FRONTEND)
+1. react-router-dom (frontend)
+2. axios
+============ (BACKEND)
+1. express 
+2. mongoose 
+3. jsonwebtoken 
+4. bcrypt 
+5. cors
+6. dotenv
+7. body-parser
+8. multer
+9. stripe
+10. validator
+11. nodemon
+============ (ADMIN)
+1. axios
+2. react-toastify
+3. react-router-dom
+
+
+
+-------------------------------------------------------------------
+code tes function add/remove cart
+
+useEffect(()=>{
+        console.log(cartItems)
+    },[cartItems])
+
+
+

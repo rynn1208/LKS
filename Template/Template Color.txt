@@ -1,0 +1,65 @@
+MAIN COLOR:
+Theme-Color:
+https://colorhunt.co/palette/102e50f5c45ee78b48be3d2a
+
+Theme-Color#2:
+#102E50, #F5C45E, #E78B48, #BE3D2A
+
+
+Template Color:
+ #49557e
+ #747474
+ #d9d9d9
+ #676767
+ #555
+#808080 (grey)
+
+
+
+
+
+Template B-Color:
+ #fff4f2
+ #fff2ef
+ #00000090
+ #808080
+ #c2bebe
+ #323232
+ #e2e2e2
+ #eaeaea
+
+Text Template:
+
+- Header
+1. Choose from a diverse menu featuring a delectable array of dishes. Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time.
+2. Order your Favourite food here.
+
+- ExploreMenu
+1. Explore our menu
+2. Choose from a diverse menu featuring a delectable array of dishes. Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time
+3. Top Dishes Near You
+
+- FoodDisplay
+1. Top dishes near you
+
+- LoginPage
+1. Your Name 
+2. Your Email
+3. Password
+4. By continuing, i agree to the terms of use & privacy policy
+5. Already have an account / Create a new account
+
+- Delivery Information
+1. First name
+2. Last name
+3. Email Address
+4. Street
+5. City
+6. State
+7. Zip Code
+8. Country
+9. Phone
+10. SubTotal
+11. Delivery Fee
+12. Total
+13. Proceed To Payment

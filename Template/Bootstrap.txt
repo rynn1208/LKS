@@ -1,0 +1,5 @@
+npm i bootstrap@5.3.6
+npm i bootstrap-icons
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';

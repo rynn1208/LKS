@@ -1,0 +1,19 @@
+____MAIN____
+- Prettier
+- Auto Rename Tag
+- ES7 React/Redux...
+- ESlint
+- HTML CSS Support
+- IntelliSense for CSS
+- JavaScript (ES6) code snippets
+- JavaScript and TypeScript Nightly
+- JS JSX Snippets
+- Live Server
+- Material Icon Theme
+- node-snippets
+
+
+____OPSIONAL____
+- Css Snippets
+- Brackets Dark
+- Mayukai Theme
