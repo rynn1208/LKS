@@ -4,6 +4,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <div>
+
       <header class="p-3 shadow" style={{ backgroundColor: "#102E50", borderRadius: "5px" }}>
         {" "}
         <div class="container">
@@ -17,7 +18,7 @@ const Navbar = () => {
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0 nav-underline">
               {" "}
               <li>
-                <a href="#" class="nav-link px-2 text-white">
+                <a href="#home" class="nav-link px-2 text-white">
                   Home
                 </a>
               </li>{" "}
@@ -27,12 +28,12 @@ const Navbar = () => {
                 </a>
               </li>{" "}
               <li>
-                <a href="#" class="nav-link px-2 text-white">
+                <a href="#mobile-app" class="nav-link px-2 text-white">
                   MobileApps
                 </a>
               </li>{" "}
               <li>
-                <a href="#" class="nav-link px-2 text-white">
+                <a href="#footer" class="nav-link px-2 text-white">
                   ContactUs
                 </a>
               </li>
