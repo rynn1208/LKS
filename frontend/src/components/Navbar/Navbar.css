@@ -1,7 +1,7 @@
 .bag{
     position: relative;
 }
-.bag .button{
+.bag .dot{
     position:absolute;
     min-width: 10px;
     min-height: 10px;

@@ -5,3 +5,11 @@
 .back a{
     color: #d9d9d9;
 }
+
+.link{
+    transition: 0.3s;
+}
+.link:hover{
+    color: #E78B48;
+    transform: scale(1.3);
+}

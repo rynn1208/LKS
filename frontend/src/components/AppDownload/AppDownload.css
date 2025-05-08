@@ -5,3 +5,10 @@
 .hover-scale:hover {
   transform: scale(1.05); /* 5% lebih besar */
 }
+
+@media(max-width:768px) {
+   .media{
+    display: flex;
+    flex-direction: column;
+   }
+}
