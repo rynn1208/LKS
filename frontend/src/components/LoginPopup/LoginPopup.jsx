@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import "./LoginPopup.css";
+import { StoreContext } from "../../context/StoreContext";
 
 const LoginPopup = ({ setShowLogin }) => {
    const [currState, setCurState] = useState("Sign Up");
+   
 
    return (
       <div className="">
