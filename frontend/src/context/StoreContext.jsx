@@ -41,6 +41,8 @@ const StoreContextProvider = (props) => {
     getTotalCartAmount,
   };
 
-  return <StoreContext.Provider value={contextValue}>{props.children}</StoreContext.Provider>;
+  return <StoreContext.Provider value={contextValue}>
+    {props.children}
+    </StoreContext.Provider>;
 };
 export default StoreContextProvider;
