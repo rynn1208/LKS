@@ -8,10 +8,10 @@ import Orders from './pages/Order/Order'
 
 const App = () => {
   return (
-    <div>
+    <div >
       <Navbar/>
       <hr />
-      <div className="app-contents">
+      <div className="app-contents container">
         <Sidebar/>
         <Routes>
           <Route path='/add' element={<Add/>} />

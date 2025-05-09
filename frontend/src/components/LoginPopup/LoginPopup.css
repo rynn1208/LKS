@@ -5,6 +5,10 @@
     height: 100%;
     background-color: #00000099;
     cursor: pointer;
+    
+}
+.full::-webkit-scrollbar{
+    display: none;
 }
 .popup-content{
     animation: fadeIn 0.5s;
